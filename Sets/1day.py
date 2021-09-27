@@ -1,9 +1,9 @@
 #  sets not stored values by index number .  its stores randomly values
 #  only stores unique values
 
+a = {4,3,2,1,5,6,7}
 
-
-
+print(a)
 
 
 
@@ -166,3 +166,5 @@ listA = [2,3,4,5,6]
 
 for x in range(len(listA)):
     print(listA[x])
+
+ 
